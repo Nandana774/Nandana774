@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nandana Premkumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **Online quiz application**
+
+- 🌱 I’m currently learning **Data Stuctures, machine learning**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
